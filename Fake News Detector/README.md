@@ -1,2 +1,1 @@
-# Hoax-Detector
-Automated News Classifier
+# Fake News Detector
